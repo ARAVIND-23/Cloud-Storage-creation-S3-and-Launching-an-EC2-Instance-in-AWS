@@ -1,9 +1,9 @@
 ## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 
 
-## Name         : Raihaan Ahmed R 
+## Name         : ARAVIND G
 
-## Register No. : 212224040260
+## Register No. : 212223240011
 
  ## Aim:
  
